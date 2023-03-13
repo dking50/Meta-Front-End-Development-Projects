@@ -1,5 +1,5 @@
 body {
-    background-color: brown;
+    background-color: cornsilk;
     font-family: 'Courier New', Courier, monospace;
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -10,9 +10,6 @@ h1 {
     font-size: 3rem;
 }
 h2 {
-    font-size: 2rem;
-}
-h3 {
     font-size: 2rem;
 }
 header > img {

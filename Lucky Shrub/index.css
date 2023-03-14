@@ -16,6 +16,11 @@ header > img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 20%;
+    height: 30%;
+}
+main img {
+    max-width: 100%;
 }
 nav ul {
     list-style: none;
@@ -35,4 +40,10 @@ footer {
 }
 footer div {
     flex: 1;
+}
+footer img {
+    width: 20%;
+    height: 50%;
+    border: solid .1rem #553434;
+    padding: 2%;
 }

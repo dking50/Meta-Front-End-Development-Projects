@@ -1,0 +1,49 @@
+body {
+    background-color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1 {
+    font-size: 3rem;
+}
+h2 {
+    font-size: 2rem;
+}
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30%;
+}
+main img {
+    max-width: 100%;
+}
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+}
+section {
+    display: flex;
+}
+article {
+    flex: 1;
+}
+footer {
+    display: flex;
+}
+footer div {
+    flex: 1;
+}
+footer img {
+    width: 20%;
+    height: 50%;
+    border: solid .1rem #553434;
+    padding: 2%;
+}
